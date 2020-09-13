@@ -1,2 +1,3 @@
 # tour-plan
-Project by Ka2nin
+
+Николай Катунин
